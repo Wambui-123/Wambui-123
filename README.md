@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Wambui-123/Wambui-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <img><iframe src="https://giphy.com/embed/1sgetPM00wWqJpVUTl" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/purwadhikaschool-coding-programming-purwadhika-1sgetPM00wWqJpVUTl">via GIPHY</a></p>
